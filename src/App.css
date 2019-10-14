@@ -20,3 +20,58 @@
 .App-link {
   color: #09d3ac;
 }
+
+.block {
+  padding: 1em;
+  margin: 1em;
+}
+
+.render {
+  background: white;
+}
+
+.code{
+  border:black solid 0.001em;
+  color: black;
+}
+
+textarea {
+  resize: none;
+}
+
+li{
+  margin: 1em;
+}
+
+img{
+  border-radius: 10%;
+}
+
+.body{
+  background: rgb(243, 243, 243);
+}
+
+.box{
+  background: #006d57;
+}
+
+.drawings{
+  background: #282c34;
+  margin-right: 0%;
+
+}
+
+.left{
+  width: 50%;
+  float: left;
+}
+
+.right{
+  width: 45%;
+  float: right;
+}
+
+.cheatsheet{
+  border: lightgrey solid 1px;
+  padding: 2% 2%;
+}
