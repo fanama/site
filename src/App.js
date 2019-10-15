@@ -20,7 +20,7 @@ import Draw from './component/Draw'
 function App() {
   return (<div >
     <Router>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light "> 
+      <nav className="navbar navbar-expand navbar-light bg-light "> 
       <div className="navbar-brand" >Fana_RK</div>
         <ul className="sidebar-nav navbar-nav mr-auto">
             <li className="nav-item">
