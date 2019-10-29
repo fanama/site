@@ -16,6 +16,7 @@ import Home from "./component/Home"
 import video from "./component/Video"
 import Video from './component/Video';
 import Draw from './component/Draw'
+import Game from './component/Game/index'
 
 function App() {
   return (<div >
@@ -32,6 +33,9 @@ function App() {
             <li className="nav-item">
               <Link to="/Latex">Latex</Link>
             </li>
+            <li className="nav-item">
+              <Link to="/Game">Game</Link>
+            </li>
              
         </ul>
       </nav>
@@ -44,6 +48,7 @@ function App() {
       <Route path="/video"><Video /></Route>
       <Route path="/Draw"><Draw /></Route>
       <Route path="/Latex"><Latex2 /></Route>
+      <Route path="/Game"><Game /></Route>
 
     </Switch>
     </Router></div>
