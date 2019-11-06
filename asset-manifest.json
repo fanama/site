@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.178a8490.chunk.css",
+    "main.js": "/site/static/js/main.5e22f4c2.chunk.js",
+    "main.js.map": "/site/static/js/main.5e22f4c2.chunk.js.map",
+    "runtime-main.js": "/site/static/js/runtime-main.1fbfb67f.js",
+    "runtime-main.js.map": "/site/static/js/runtime-main.1fbfb67f.js.map",
+    "static/css/2.510409cd.chunk.css": "/site/static/css/2.510409cd.chunk.css",
+    "static/js/2.f3ca1131.chunk.js": "/site/static/js/2.f3ca1131.chunk.js",
+    "static/js/2.f3ca1131.chunk.js.map": "/site/static/js/2.f3ca1131.chunk.js.map",
+    "index.html": "/site/index.html",
+    "precache-manifest.ee1d11297e2fc0743324ef8a4135a47b.js": "/site/precache-manifest.ee1d11297e2fc0743324ef8a4135a47b.js",
+    "service-worker.js": "/site/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/site/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.178a8490.chunk.css.map": "/site/static/css/main.178a8490.chunk.css.map",
+    "static/media/Home.md": "/site/static/media/Home.0a1186f5.md",
+    "static/media/Mark.md": "/site/static/media/Mark.bfa91b0c.md",
+    "static/media/Markdown.md": "/site/static/media/Markdown.8ab926ae.md",
+    "static/media/dessins.md": "/site/static/media/dessins.0a28b5c6.md",
+    "static/media/latex.md": "/site/static/media/latex.8841f7a9.md",
+    "static/media/test.md": "/site/static/media/test.71b87546.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fbfb67f.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.f3ca1131.chunk.js",
+    "static/css/main.178a8490.chunk.css",
+    "static/js/main.5e22f4c2.chunk.js"
+  ]
+}
